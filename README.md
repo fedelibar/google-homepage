@@ -12,3 +12,5 @@ Build a very basic form (even if it doesn't "go" anywhere).
 The goal is to build the google homepage.
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+
+Link to [github page] (https://federicolb.github.io/google-homepage/)
